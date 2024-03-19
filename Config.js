@@ -3,24 +3,23 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernumber = ['919931122319']
-global.ownername = "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰"//owner name
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.ownername = "Glayzz_4T9ne 💀"//owner name
+global.ytname = "YT: Glayzz_4T9ne"
+global.socialm = "GitHub: Glayzz"
+global.location = "5th Dimension"
 
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.botname = 'GLAYZZ_4T9NE_XD //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = 'Glayzz_4T9ne_XD'
 global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.author = 'Glayzz_4T9ne'
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "Glayzz botz inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
-
+global.link = 'linktree/glayzz_4t9ne
 //custom prefix
 global.prefa = ['.']
 
@@ -38,7 +37,7 @@ global.autoread_status = false //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '*here you go!* \n\n*🎀 Maria Bot 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/AYUSH-PANDEY023/Maria-MD\n',
+    done: '*here you go!* \n\n*🎀 Glayzz Bot 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/AYUSH-PANDEY023/Maria-MD\n',
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
