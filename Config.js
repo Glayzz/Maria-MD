@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['919931122319']
+global.ownernumber = ['+2349013810191']
 global.ownername = "Glayzz_4T9ne 💀"//owner name
 global.ytname = "YT: Glayzz_4T9ne"
 global.socialm = "GitHub: Glayzz"
@@ -19,7 +19,7 @@ global.themeemoji = '🧩'
 global.wm = "Glayzz botz inc."
 
 //theme link
-global.link = 'linktree/glayzz_4t9ne
+global.link = 'linktr.ee/glayzz4t9ne
 //custom prefix
 global.prefa = ['.']
 
